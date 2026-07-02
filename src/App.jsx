@@ -798,12 +798,6 @@ function App() {
                     operational intelligence, or aviation analytics roles.
                   </p>
                   <div className="mt-6 flex flex-col gap-3">
-                    <a className="rounded-lg bg-white px-5 py-3 text-center font-semibold text-navy-900 transition hover:bg-slate-100" href="https://github.com/" target="_blank" rel="noreferrer">
-                      View GitHub
-                    </a>
-                    <a className="rounded-lg border border-white/30 px-5 py-3 text-center font-semibold text-white transition hover:bg-white/10" href="#top">
-                      Download Resume
-                    </a>
                     <button
                       type="button"
                       onClick={() => setIsDemoModalOpen(true)}
